@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/HCamera.qml</file>
+        <file>Qml/InitDevice.qml</file>
+        <file>Qml/IoStatus.qml</file>
+        <file>Qml/LaserSetting.qml</file>
+        <file>Qml/main.qml</file>
+        <file>Qml/MotionUI.qml</file>
+        <file>Qml/ProgramSetting.qml</file>
+        <file>Qml/MyButton/HMessageBox.qml</file>
+        <file>Qml/MyButton/MyButton.qml</file>
+        <file>Qml/MyButton/TableSetting.qml</file>
+        <file>Qml/MyButton/TableViewMain.qml</file>
+        <file>Qml/textEditor/qml/MyTexteditor.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Qml/LightSwitch.qml</file>
+    </qresource>
+</RCC>
